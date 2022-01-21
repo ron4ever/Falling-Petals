@@ -44,7 +44,7 @@ function setup() {
         for (let i = 0; i < noOfPetals; i++) {
             let petal = new Object();
             petal["image"] =  new Image();
-            petal.image.src = 'imgs/petal.png';
+            petal.image.src = 'imgs/petal.png'; //Put the picture you want to fall here
             petal["x"] = Math.random() * 1600;
             petal["y"] = Math.random() * 5000;
             petal["speed"] = 4 + Math.random() * 6;
