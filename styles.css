@@ -1,0 +1,12 @@
+body {
+    background-image: url("imgs/sakura.jpg");
+    background-repeat: no-repeat, repeat;
+    font-size: 35px;
+  }
+  h1{
+      color: white;
+  }
+  p{
+      color: white;
+      
+  }
